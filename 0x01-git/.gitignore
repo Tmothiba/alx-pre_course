@@ -1,2 +1,1 @@
-#ingnore all emacs files
-*.emacs
+~Never push files created by Emacs
